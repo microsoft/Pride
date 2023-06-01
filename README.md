@@ -8,20 +8,27 @@ Learn more about [Pride at Microsoft](https://unlocked.microsoft.com/pride/)
 
 # An emblem of unity
 
-Created by the LGBTQIA+ people at Microsoft and with our partners, this expression celebrates the nuance, intersectionality, and strength of LGBTQIA+ communities by bringing together almost 50 community flags in immersive and evocative designs. The hand-drawn brush strokes and sketch textures that make up LGBTQIA+ flags spark creativity and inspire action–encouraging everyone to make and expand Pride.
+Created by the LGBTQIA+ people at Microsoft together with our creative partners, this Pride expression celebrates the nuance, intersectionality, and strength of LGBTQIA+ communities by bringing together almost 50 community flags in immersive and evocative designs. The hand-drawn brush strokes and sketch textures that make up LGBTQIA+ flags are woven together in a variety of compositions that are designed to ingite imagination and inspire action towards more LGBTQIA+ equity and equality.
 
-The following flags are represented in the graphics: A-spec, Abrosexual, Aceflux, Achillean, Asexual, Bisexual, Demisexual, Diamoric, Gay / MLM, Graysexual, Lesbian, Multisexual, Omnisexual, Pansexual, Polysexual, Queer, Sapphic, Unlabeled, Agender, Bigender, Demiboy, Demifluid, Demigender, Demigirl, Gender questioning, Genderfluid, Genderflux, Genderqueer, Maverique, Multigender, Neutrois, Non binary, Pangender, Transfeminine, Transmasculine, Transneutral, Trigender, Transgender, Ambiamorous, Aroace, Aroflux, Aromantic, Demiromantic, Polyamorous, Androgynous, Ally, Pride, Two Spirits and Intersex.
+The following flags are represented in the graphics: A-spec, Abrosexual, Aceflux, Achillean, Agender, Ally, Ambiamorous, Androgynous, Aroace, Aroflux, Abrosexual, Aceflux, Achillean, Agender, Ally, Ambiamorous, Androgynous, Aroace, Aroflux, Aromantic, Asexual, A-spec, Bigender, Bisexual, Demiboy, Demifluid, Demigender, Demigirl, Demiromantic, Demisexual, Diamoric, Gay / MLM, Gender questioning, Genderfluid, Genderflux, Genderqueer, Graysexual, Intersex, Lesbian, Maverique, Multigender, Multisexual, Neutrois, Nonbinary, Omnisexual, Pangender, Pansexual, Polyamorous, Polysexual, Pride, Queer, Sapphic, Transfeminine, Transgender, Transmasculine, Transneutral, Trigender, Two Spirits and Unlabeled.
 
-![overlap2](https://github.com/microsoft/Pride/assets/113071293/06a3dde6-b814-4049-ad9b-5f1a5d58b045)
+![overlap2 - no white](https://github.com/microsoft/Pride/assets/113071293/288b6b9a-1144-46a1-99c7-1f1a52b3461f)
 
 ## Expansive and flexible
-Our Pride design system is built for you to create almost infinite compositions and layouts. With a custom Microsoft Pride font, almost 50 individual flag graphics, ready-made hero assets, and guides on crafting your own images - your imagination is your only limit. We’re releasing source files and ready-made assets, plus additional guides. You can also create your own clips with video assets availaible on [Clipchamp](https://app.clipchamp.com/login).
+Our Pride design system is built for you to create almost infinite compositions and layouts. With a custom Microsoft Pride font, almost 50 individual flag graphics, ready-made hero assets, and guides on crafting your own images - your imagination is your only limit. Make your own work with open source files and ready-made assets. You can also create clips and videos with assets availaible on [Clipchamp](https://app.clipchamp.com/login).
 
-![guidance](https://github.com/microsoft/Pride/assets/113071293/ae014a65-9faf-4fad-9c87-f907efa53e1b)
+![guidance - no white](https://github.com/microsoft/Pride/assets/113071293/c5ed1430-43e5-4d11-bf08-393e01d78aeb)
+
+## Ever growing and evolving
+
+June 1st marks our first drop, and we’ll be adding more assets and guidance over the coming weeks. Specifically, ready-made localized assets in over 20 languages, plus motion files. Follow for updates.
+
+![Picture10](https://github.com/microsoft/Pride/assets/113071293/c598f777-5883-4493-8beb-e397e93d977d)
+
 
 ## Make it yours
 
-We welcome your contributions to this project! With hundreds of community flags already available—and more being added every day—we’re excited for people to keep creating more. Please note that most contributions require you to agree to a Contribution License Agreement (CLA.) Visit https://cla.opensource.microsoft.com.
+We welcome your contributions to this project! Please note that most contributions require you to agree to a Contribution License Agreement (CLA.) Visit https://cla.opensource.microsoft.com.
 
 This project has adopted the Microsoft Open Source Code of Conduct. For more information see the Code of Conduct FAQ or contact opencode@microsoft.com with any additional questions or comments.
 
