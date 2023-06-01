@@ -15,7 +15,9 @@ The following flags are represented in the graphics: A-spec, Abrosexual, Aceflux
 ![overlap2 - no white](https://github.com/microsoft/Pride/assets/113071293/288b6b9a-1144-46a1-99c7-1f1a52b3461f)
 
 ## Expansive and flexible
-Our Pride design system is built for you to create almost infinite compositions and layouts. With a custom Microsoft Pride font, almost 50 individual flag graphics, ready-made hero assets, and guides on crafting your own images - your imagination is your only limit. Make your own work with open source files and ready-made assets. You can also create clips and videos with assets availaible on [Clipchamp](https://app.clipchamp.com/login).
+Our Pride design system is built for you to create almost infinite compositions and layouts. With a custom Microsoft Pride font, almost 50 individual flag graphics, ready-made hero assets, and guides on crafting your own images - your imagination is your only limit. Make your own work with open source files and ready-made assets. 
+
+Explore assets on [Figma](https://www.figma.com/community/file/1158808367098375909), plus you can create clips and videos with these desings availaible on [Clipchamp](https://app.clipchamp.com/login).
 
 ![guidance - no white](https://github.com/microsoft/Pride/assets/113071293/c5ed1430-43e5-4d11-bf08-393e01d78aeb)
 
