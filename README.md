@@ -1,33 +1,32 @@
-# Project
+# Our Pride is open source
 
-> This repo has been populated by an initial template to help get you started. Please
-> make sure to update the content to build a great experience for community-building.
+Last year, we open-sourced our [Pride flag design](https://github.com/microsoft/Pride-flag) representing 40 LGBTQIA+ communities. Our latest update reflects almost 50 identities and comes with new layouts. Plus, we are open-sourcing the entire Pride design and invite you to remix, share and make more Pride.
 
-As the maintainer of this project, please make a few updates:
+Learn more about [Pride at Microsoft](https://unlocked.microsoft.com/pride/)
 
-- Improving this README.MD file to provide a great experience
-- Updating SUPPORT.MD with content about this project's support experience
-- Understanding the security reporting process in SECURITY.MD
-- Remove this section from the README
+![FY23Pride-Hero_MakePride_OpenSource](https://github.com/microsoft/Pride/assets/113071293/9c5595fc-4e8b-4317-989a-bac74067ac17)
 
-## Contributing
+# An emblem of unity
 
-This project welcomes contributions and suggestions.  Most contributions require you to agree to a
-Contributor License Agreement (CLA) declaring that you have the right to, and actually do, grant us
-the rights to use your contribution. For details, visit https://cla.opensource.microsoft.com.
+Created by the LGBTQIA+ people at Microsoft and with our partners, this expression celebrates the nuance, intersectionality, and strength of LGBTQIA+ communities by bringing together almost 50 community flags in immersive and evocative designs. The hand-drawn brush strokes and sketch textures that make up LGBTQIA+ flags spark creativity and inspire action–encouraging everyone to make and expand Pride.
 
-When you submit a pull request, a CLA bot will automatically determine whether you need to provide
-a CLA and decorate the PR appropriately (e.g., status check, comment). Simply follow the instructions
-provided by the bot. You will only need to do this once across all repos using our CLA.
+The following flags are represented in the graphics: A-spec, Abrosexual, Aceflux, Achillean, Asexual, Bisexual, Demisexual, Diamoric, Gay / MLM, Graysexual, Lesbian, Multisexual, Omnisexual, Pansexual, Polysexual, Queer, Sapphic, Unlabeled, Agender, Bigender, Demiboy, Demifluid, Demigender, Demigirl, Gender questioning, Genderfluid, Genderflux, Genderqueer, Maverique, Multigender, Neutrois, Non binary, Pangender, Transfeminine, Transmasculine, Transneutral, Trigender, Transgender, Ambiamorous, Aroace, Aroflux, Aromantic, Demiromantic, Polyamorous, Androgynous, Ally, Pride, Two Spirits and Intersex.
 
-This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/).
-For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or
-contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
+![overlap2](https://github.com/microsoft/Pride/assets/113071293/06a3dde6-b814-4049-ad9b-5f1a5d58b045)
 
-## Trademarks
+## Expansive and flexible
+Our Pride design system is built for you to create almost infinite compositions and layouts. With a custom Microsoft Pride font, almost 50 individual flag graphics, ready-made hero assets, and guides on crafting your own images - your imagination is your only limit. We’re releasing source files and ready-made assets, plus additional guides. You can also create your own clips with video assets availaible on [Clipchamp](https://app.clipchamp.com/login).
 
-This project may contain trademarks or logos for projects, products, or services. Authorized use of Microsoft 
-trademarks or logos is subject to and must follow 
-[Microsoft's Trademark & Brand Guidelines](https://www.microsoft.com/en-us/legal/intellectualproperty/trademarks/usage/general).
-Use of Microsoft trademarks or logos in modified versions of this project must not cause confusion or imply Microsoft sponsorship.
-Any use of third-party trademarks or logos are subject to those third-party's policies.
+![guidance](https://github.com/microsoft/Pride/assets/113071293/ae014a65-9faf-4fad-9c87-f907efa53e1b)
+
+## Make it yours
+
+We welcome your contributions to this project! With hundreds of community flags already available—and more being added every day—we’re excited for people to keep creating more. Please note that most contributions require you to agree to a Contribution License Agreement (CLA.) Visit https://cla.opensource.microsoft.com.
+
+This project has adopted the Microsoft Open Source Code of Conduct. For more information see the Code of Conduct FAQ or contact opencode@microsoft.com with any additional questions or comments.
+
+## License
+
+Microsoft and any contributors grant you a license to content in this repository under the Creative Commons BY-NC-SA 4.0, see the LICENSE file. Privacy information can be found at https://privacy.microsoft.com/en-us/. Progress Pride Flag ©quasar.digital LLC 2022. Polyamory Pride Flag by Molly Colleen Bennett Wilvich.
+
+![Picture8](https://github.com/microsoft/Pride/assets/113071293/17eebc44-ef33-463a-a428-054fd8ceea0f)
